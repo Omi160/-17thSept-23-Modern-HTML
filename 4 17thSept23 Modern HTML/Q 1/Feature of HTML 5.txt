@@ -1,0 +1,22 @@
+Feature of HTML 5
+1 - Semantic Element:
+HTML 5 introduced semantic elements that describe the meaning of the content of just it, s presentation. 
+This makes the code clearer, more accessible, and easier for search engines to stand. 
+Ex. <header>, < article>, < selection>, and <footer>. 
+
+2 - Audio and Video Support:
+No longer relying on third party plugins like flash, HTML introduce native <audio> and <Video> element for embedding audio and video files directly into web pages. 
+This provides control and flexibility for developer and a more seamless experience for users
+
+3 - Canvas
+<canvas> element allows developers to draw graphics directly on the web page using JavaScript. 
+This opens up a world of possibility for creating interactive and visually engaging web experience.
+
+4 - Geolocation API :
+The Geo location API allows web applications to access the user's location with their permission. 
+This enables a wide range of location-based feature, such as map, weather updates and nearby shops- etc.
+
+5 - Local Storage
+HTML5 introduce local storage, a mechanism for web application to store date persistently on the user devise. 
+This allow application to retain information even after the user close the browser, making them more responsive and user friendly.
+
